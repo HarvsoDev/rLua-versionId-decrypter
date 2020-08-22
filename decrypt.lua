@@ -1,5 +1,6 @@
 local versionid = "" -- Heres where your version id should go.
 
+-- This script only works with Synapse X.
 
 local HttpService = game:GetService("HttpService")
 local link = "http://www.roblox.com/asset/?id=&assetversionid=" ..versionid
